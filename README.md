@@ -47,6 +47,11 @@ Vamos unir forças para construir uma comunidade de código aberto mais forte em
     *   [https://twitter.com/githubbrasil](https://www.twitter/githubbrasil/)
         
 *   **Participe de nossas discussões comunitárias:** https://github.com/gittogethers/saopaulo/discussions/
+
+  Você também pode conferir os GitTogethers em outras cidades do Brasil:
+
+- Fortaleza: [gittogether-fortaleza](https://github.com/gittogether/fortaleza)
+- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
     
 Vamos unir forças para construir uma comunidade de código aberto mais forte em São Paulo!
 
@@ -81,7 +86,4 @@ Conheça seus líderes
 
 Vamos construir uma comunidade open-source mais forte em São Paulo, juntos!
 
-Você também pode conferir os GitTogethers em outras cidades do Brasil:
 
-- Fortaleza: [gittogether-fortaleza](https://github.com/gittogether/fortaleza)
-- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
