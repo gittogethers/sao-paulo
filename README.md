@@ -1,8 +1,8 @@
 # Bem-vindo ao GitTogether São Paulo 🚀
 
-Junte-se a nós para o GitTogether São Paulo – o encontro definitivo para desenvolvedores em e ao redor de São Paulo, Brasil. Promovido pelo GitHub e liderado por especialistas da comunidade, nossos eventos abrangem diversos tópicos como IA, Open Source e Segurança. Participe de discussões, workshops e oportunidades de networking com colegas que compartilham os mesmos interesses, independentemente do seu nível de habilidade.
+Junte-se a nós para o GitTogether São Paulo – o encontro definitivo para pessoas desenvolvedoras na área São Paulo, Brasil. Promovido pelo GitHub e liderado por especialistas da comunidade, nossos eventos abrangem diversos tópicos como IA, Open Source e Segurança. Participe de discussões, workshops e oportunidades de networking com colegas que compartilham os mesmos interesses, independentemente do seu nível de habilidade.
 
-O Brasil possui uma das maiores comunidades de desenvolvedores no GitHub e continua a crescer. Junte-se a nós nesta iniciativa da comunidade, molde o futuro do software e conecte-se com as mentes mais brilhantes do Brasil em tecnologia.
+O Brasil possui uma das maiores comunidades de pessoas desenvolvedoras no GitHub e continua a crescer. Junte-se a nós nesta iniciativa da comunidade, molde o futuro do software e conecte-se com as mentes mais brilhantes do Brasil em tecnologia.
 
 ## Próximos Eventos ✨
 
@@ -70,7 +70,7 @@ Conheça seus líderes
       <p align="center">
         <strong>@pachicodes</strong><br>
         GitHub Community Leader<br>
-        <br><strong>Fortaleza, Brazil</strong><br>
+        <br><strong>São Paulo, Brazil</strong><br>
         <br>
         <a href="https://github.com/pachicodes">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
