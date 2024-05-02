@@ -36,9 +36,52 @@ Nós nos esforçamos para criar um ambiente acolhedor e inclusivo para todos. Po
 
 ## Mantenha-se Conectado
 
+Participe de nossas discussões comunitárias: https://github.com/gittogethers/saopaulo/discussions/
+
+Vamos unir forças para construir uma comunidade de código aberto mais forte em São Paulo!
+
+*   **Siga-nos nas redes sociais:**
+    
+    *   [https://www.instagram.com/ghcommunitysp/](https://www.instagram.com/ghcommunitysp/)
+        
+    *   [https://twitter.com/githubbrasil](https://www.twitter/githubbrasil/)
+        
+*   **Participe de nossas discussões comunitárias:** https://github.com/gittogethers/saopaulo/discussions/
+    
+Vamos unir forças para construir uma comunidade de código aberto mais forte em São Paulo!
+
+Conheça seus líderes
+--------------------
+<table align="center">
+  <tr align="center">
+    <td>
+      <strong>Patricia Parra</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/pachicodes/">
+          <img src="https://avatars.githubusercontent.com/u/44537285?v=4"  height="120" alt="pachicodes">
+        </a>
+      </p>
+      <p align="center">
+        <strong>@pachicodes</strong><br>
+        GitHub Community Leader<br>
+        <br><strong>Fortaleza, Brazil</strong><br>
+        <br>
+        <a href="https://github.com/pachicodes">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/pachiparra/">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
+    </td>
+    <td>
+    </td>
+
+
 Vamos construir uma comunidade open-source mais forte em São Paulo, juntos!
 
 Você também pode conferir os GitTogethers em outras cidades do Brasil:
 
-- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether-florianopolis)
-- Fortaleza: [gittogether-fortaleza](https://github.com/gittogether-fortaleza)
+- Fortaleza: [gittogether-fortaleza](https://github.com/gittogether/fortaleza)
+- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
