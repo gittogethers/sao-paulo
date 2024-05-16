@@ -1,8 +1,8 @@
-# Bem-vindo ao GitTogether São José dos Campos 🚀
+# Bem-vindo ao GitTogether São Paulo 🚀
 
-Junte-se a nós para o GitTogether São José dos Campos – o encontro definitivo para pessoas desenvolvedoras na região do Vale do Paraíba, Brasil. Sediado no polo tecnológico de São José dos Campos e liderado pela especialista em tecnologia Juliana Conde, nossos eventos exploram as fronteiras da inovação em tópicos como IA, Open Source, Segurança Cibernética e Indústria 4.0. Participe de discussões envolventes, workshops práticos e oportunidades de networking com profissionais de tecnologia que compartilham a mesma paixão, independentemente do seu nível de experiência.
+Junte-se a nós para o GitTogether São Paulo – o encontro definitivo para pessoas desenvolvedoras na área São Paulo, Brasil. Promovido pelo GitHub e liderado por especialistas da comunidade, nossos eventos abrangem diversos tópicos como IA, Open Source e Segurança. Participe de discussões, workshops e oportunidades de networking com colegas que compartilham os mesmos interesses, independentemente do seu nível de habilidade.
 
-São José dos Campos abriga um ecossistema tecnológico dinâmico, com institutos de pesquisa de ponta, startups inovadoras e gigantes da indústria aeroespacial. Junte-se a nós nesta iniciativa impulsionada pela comunidade, molde o futuro da tecnologia e conecte-se com algumas das mentes mais brilhantes do Brasil em engenharia de software, ciência de dados e muito mais.  
+O Brasil possui uma das maiores comunidades de pessoas desenvolvedoras no GitHub e continua a crescer. Junte-se a nós nesta iniciativa da comunidade, molde o futuro do software e conecte-se com as mentes mais brilhantes do Brasil em tecnologia.
 
 ## Próximos Eventos ✨
 
@@ -11,6 +11,7 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 | AAAA-MM-DD | Título do Evento | [Link]() |
 
 ### Eventos Passados
+
 | Data | Título | Link de Inscrição |
 |------------|-------------|---------------------|
 | AAAA-MM-DD | Título do Evento | [Link para o Resumo do Evento]() |
@@ -19,60 +20,69 @@ São José dos Campos abriga um ecossistema tecnológico dinâmico, com institut
 
 **Quer palestrar em um evento?**
 - Encontre uma "Chamada para Palestrantes" aberta na página do evento.
-- Siga as instruções para enviar sua proposta de palestra inovadora.
+- Siga as instruções para enviar sua proposta de palestra.
 
-**Quer participar?**  
-- Navegue pelos próximos eventos de alta tecnologia.
+**Quer participar?**
+- Navegue pelos próximos eventos.
 - Registre-se por meio dos links de inscrição fornecidos.
 
-**Tem feedback, quer sugerir um tópico cutting-edge ou contribuir de outras maneiras? Adoraríamos ouvir de você!**
-- Crie uma issue neste repositório high-tech. 
-- Inicie uma discussão progressiva na aba Discussões.
+**Tem feedback, quer sugerir um tópico ou contribuir de outras maneiras? Adoraríamos ouvir de você!**
+- Crie uma issue neste repositório.
+- Inicie uma discussão na aba Discussões.
 
 ## Diretrizes da Comunidade 🤝
 
-Nós nos dedicamos a criar um ambiente acolhedor e inclusivo para todos os entusiastas de tecnologia. Por favor, seja respeitoso em suas interações e siga nosso [Código de Conduta](link) e as Diretrizes da Comunidade do GitHub.
+Nós nos esforçamos para criar um ambiente acolhedor e inclusivo para todos. Por favor, seja respeitoso em suas interações e siga nosso [Código de Conduta](link) e as Diretrizes da Comunidade do GitHub.
 
 ## Mantenha-se Conectado
 
-Participe de nossas discussões comunitárias tecnológicas: https://github.com/gittogethers/saojosedoscampos/discussions/
+Participe de nossas discussões comunitárias: https://github.com/gittogethers/saopaulo/discussions/
 
-Vamos unir forças para construir uma comunidade de código aberto de última geração em São José dos Campos!
+Vamos unir forças para construir uma comunidade de código aberto mais forte em São Paulo!
 
-**Siga-nos nas redes sociais:**
-* [https://www.instagram.com/githubbrasil](https://www.instagram.com/githubbrasil)/
-* [https://www.twitter.com/githubbrasil/](https://www.twitter.com/githubbrasil/)
+*   **Siga-nos nas redes sociais:**
+    
+    *   [https://www.instagram.com/ghcommunitysp/](https://www.instagram.com/ghcommunitysp/)
+        
+    *   [https://twitter.com/githubbrasil](https://www.twitter/githubbrasil/)
+        
+*   **Participe de nossas discussões comunitárias:** https://github.com/gittogethers/saopaulo/discussions/
 
-**Participe de nossas discussões comunitárias high-tech:** https://github.com/gittogethers/saojosedoscampos/discussions/
+  Você também pode conferir os GitTogethers em outras cidades do Brasil:
 
-Vamos impulsionar a inovação e construir uma comunidade de código aberto de ponta em São José dos Campos!
+- Fortaleza: [gittogether-fortaleza](https://github.com/gittogether/fortaleza)
+- Florianópolis: [gittogether-florianopolis](https://github.com/gittogether/florianopolis)
+    
+Vamos unir forças para construir uma comunidade de código aberto mais forte em São Paulo!
 
-Conheça sua líder
-
+Conheça seus líderes
 --------------------
-
 <table align="center">
   <tr align="center">
     <td>
-      <strong>Juliana Conde</strong>
+      <strong>Patricia Parra</strong>
       <p align="center">
         <br>
-        <a href="https://www.instagram.com/juliana_conde_tech/">
-          <img src="https://avatars.githubusercontent.com/u/29529757?v=4" height="120" alt="juliana_conde_tech">  
+        <a href="https://www.instagram.com/pachicodes/">
+          <img src="https://avatars.githubusercontent.com/u/44537285?v=4"  height="120" alt="pachicodes">
         </a>
       </p>
       <p align="center">
-        <strong>@juliana_conde_tech</strong><br>
-        Líder Comunitária do GitHub<br>
-        <br><strong>São José dos Campos, Brazil</strong><br>
+        <strong>@pachicodes</strong><br>
+        GitHub Community Leader<br>
+        <br><strong>São Paulo, Brazil</strong><br>
         <br>
-        <a href="https://github.com/julianaconde">
+        <a href="https://github.com/pachicodes">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
-        <a href="https://www.linkedin.com/in/julianaconde/">
+        <a href="https://www.linkedin.com/in/pachiparra/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
     </td>
-  </tr>
-</table>
+    <td>
+    </td>
+
+
+Vamos construir uma comunidade open-source mais forte em São Paulo, juntos!
+
