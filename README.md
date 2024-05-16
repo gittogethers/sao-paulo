@@ -81,7 +81,28 @@ Conheça seus líderes
       </p>
     </td>
     <td>
+      <strong>Pamela Rosales</strong>
+      <p align="center">
+        <br>
+        <a href="https://www.instagram.com/pamelaros/">
+          <img src="https://avatars.githubusercontent.com/u/12487823?v=4"  height="120" alt="pamelaros">
+        </a>
+      </p>
+      <p align="center">
+        <strong>@pamelaros</strong><br>
+    GitHub Community Leader<br>
+        <br><strong>São Paulo, Brazil</strong><br>
+        <br>
+        <a href="https://github.com/pamelars86">
+          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
+        </a>
+        <a href="https://www.linkedin.com/in/pamela-rosales-079624102">
+          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+        </a>
+      </p>
     </td>
+  </tr>
+</table>
 
 
 Vamos construir uma comunidade open-source mais forte em São Paulo, juntos!
